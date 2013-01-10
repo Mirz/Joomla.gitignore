@@ -34,4 +34,4 @@ plugins/*
 # Ignore everything in the "templates" directory, except the templates you
 # specify (see the commented-out example for a hint on how to do this.)
 templates/*
-!templates/my-theme-directory/
+# !templates/my-theme-directory/
